@@ -5,32 +5,5 @@
 [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://www.galytek.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohamedGALY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@galytek.com)
 
 # 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC04B?style=for-the-badge&logoColor=white) ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-003087?style=for-the-badge&logoColor=white) ![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge&logoColor=white) ![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge&logoColor=white) ![I2C](https://img.shields.io/badge/I²C-555555?style=for-the-badge&logoColor=white)
 
-## 🔧 Embedded & Firmware
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC04B?style=for-the-badge&logoColor=white)
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 🌐 Web & Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🛠️ Tools & Protocols
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![CAN Bus](https://img.shields.io/badge/CAN%20Bus-003087?style=for-the-badge&logoColor=white)
-![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I²C-555555?style=for-the-badge&logoColor=white)
-
-## 📐 Standards & Methodologies
-![AUTOSAR](https://img.shields.io/badge/AUTOSAR-0033A0?style=for-the-badge&logoColor=white)
-![UDS](https://img.shields.io/badge/UDS%20ISO%2014229-CC0000?style=for-the-badge&logoColor=white)
-![ISO 26262](https://img.shields.io/badge/ISO%2026262-FF6600?style=for-the-badge&logoColor=white)
-![IEC 61508](https://img.shields.io/badge/IEC%2061508-FF6600?style=for-the-badge&logoColor=white)
